@@ -1,2 +1,2 @@
-# github-example
+# Coursera_Capstone
 This repository is a demonstration.
